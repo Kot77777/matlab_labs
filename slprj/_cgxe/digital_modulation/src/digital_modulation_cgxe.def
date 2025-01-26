@@ -1,0 +1,4 @@
+LIBRARY digital_modulation_cgxe.mexw64
+EXPORTS
+mexFunction
+mexfilerequiredapiversion
